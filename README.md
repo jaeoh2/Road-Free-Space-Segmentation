@@ -1,6 +1,6 @@
 # Road Lane Segmentation
  - Convolution Neural Network for segmentation of the road lane.
- - Models : [SegNet](https://arxiv.org/abs/1511.00561), [U-Net](https://arxiv.org/abs/1505.04597), [LinkNet](https://arxiv.org/abs/1707.03718), [PSPNet](https://arxiv.org/pdf/1612.01105.pdf)
+ - Models : [SegNet](https://arxiv.org/abs/1511.00561), [U-Net](https://arxiv.org/abs/1505.04597)
 
 ## Load Dataset
 ```python
